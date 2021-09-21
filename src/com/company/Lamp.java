@@ -18,4 +18,5 @@ public class Lamp {
     public void trykPåKontakt() {
 
     }
+
 }
